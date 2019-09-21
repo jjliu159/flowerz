@@ -1,0 +1,1 @@
+A simple AI Iris scanner used to find the rare physical mutations of Iris plants. Trained by a given .csv file of Iris plants and tested against a test .csv file of Iris plants. 
