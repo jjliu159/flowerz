@@ -1,8 +1,3 @@
-# CS-UY 1114
-# Final Project
-# Jia Jun Liu
-#
-
 import math
 import turtle
 
